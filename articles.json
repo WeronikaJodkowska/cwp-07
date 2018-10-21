@@ -1,0 +1,40 @@
+[
+	{
+		"id": 1,
+		"title": "title2",
+		"text": "text2",
+		"date": "14.10.2018",
+		"author": "James",
+		"comments": [
+			{
+				"id": 1,
+				"articleId": 2,
+				"text": "te1",
+				"date": "14.10.2018",
+							"author": "John"
+			},
+			{
+				"id": 2,
+				"articleId": 2,
+				"text": "te2",
+				"date": "14.10.2018",
+				"author": "Douglas"
+			},
+			{ "id": 35 },
+			{ "id": 36 }
+		]
+	},
+	{
+		"id": 3,
+		"title": "title3",
+		"text": "text3",
+		"date": "14.10.2018",
+		"author": "Charlotte",
+		"comments": []
+	},
+	{
+		"id": 27,
+		"title": "new_title",
+		"comments": []
+	}
+]
